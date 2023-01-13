@@ -27,3 +27,6 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
 <p/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gitseong96&show_icons=true&theme=radical)    
+
